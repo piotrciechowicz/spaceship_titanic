@@ -16,7 +16,7 @@ RoomService, FoodCourt, ShoppingMall, Spa, VRDeck - Amount the passenger has bil
 Name - The first and last names of the passenger.
 Transported - Whether the passenger was transported to another dimension. This is the target, the column you are trying to predict.
 
-Three machine learning models have been created: 
+Three machine learning models have been created:         
 
 - XGBoost, 
 - LightGBM
