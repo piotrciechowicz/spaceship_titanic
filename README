@@ -22,7 +22,7 @@ Three machine learning models have been created:
 - LightGBM
 - CatBoost
 
-The best results were obtained for CatBoost.
+The best results were obtained for CatBoost. 
 
 To find best hypeparameters in CatBoost was used Optuna.
 
